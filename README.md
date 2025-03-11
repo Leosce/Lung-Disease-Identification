@@ -34,7 +34,7 @@ This repository contains a deep learning model designed to classify lung conditi
 ### Usage:
 1. Start the Streamlit application:
    ```bash
-   streamlit run lung_disease_app.py
+   streamlit run Lung_Disease_App.py
    ```
 2. Upload your chest X-ray image through the application interface.
 3. View the prediction result in real-time, indicating whether the lung condition is **Normal**, **COVID-19**, or **Viral Pneumonia**.
