@@ -1,3 +1,6 @@
+
+![Untitled video - Made with Clipchamp (3) (5)](https://github.com/user-attachments/assets/00ba1b4c-065c-4282-bc32-5382f673eeb9)
+
 # Lung-Disease-Identification
 
 This repository contains a deep learning model designed to classify lung conditions into three categories: **Normal**, **COVID-19**, and **Viral Pneumonia**. The model leverages convolutional neural networks (CNNs) and is trained on chest X-ray images to provide accurate and efficient diagnoses. When tested on **unseen data** the model provided an astonishing **93.97%** accuracy. You can try it yourself by using the test folder provided.
