@@ -11,7 +11,7 @@ st.header('Please upload a chest X-ray.')
 
 file = st.file_uploader('', type=['jpg','jpeg','png'])
 
-model=load_model(".\\models\\lung_disease_identification.h5")
+model=load_model(".\\models\\lung_disease_identification.h5") # Make sure to replace this with your path.
 
 class_names=['COVID-19','Normal','Viral Pneumonia']
 
