@@ -42,6 +42,8 @@ This repository contains a deep learning model designed to classify lung conditi
 2. Upload your chest X-ray image through the application interface.
 3. View the prediction result in real-time, indicating whether the lung condition is **Normal**, **COVID-19**, or **Viral Pneumonia**.
 
+![uploads_image_5G7gtQBlL1VcRrAvXCN3OWq9doEpsx_Untitled-video---Made-with-Clipchamp-(4)](https://github.com/user-attachments/assets/d4a41a26-1ed8-43cc-a87f-65a93c02238e)
+
 ---
 
 ### Requirements:
