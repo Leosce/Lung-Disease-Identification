@@ -4,7 +4,6 @@ pandas
 matplotlib
 opencv-python
 scikit-learn
-PIL
 seaborn
 streamlit
 keras
